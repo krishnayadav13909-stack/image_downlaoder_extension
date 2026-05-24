@@ -36,8 +36,6 @@ Image-Downloader/
 │
 ├── main.py
 ├── requirements.txt
-├── downloads/
-├── har_files/
 └── README.md
 ```
 
@@ -75,7 +73,7 @@ har_files/example.har
 Downloaded images will be saved inside:
 
 ```text
-downloads/
+home/username/
 ```
 
 ## 📸 Supported Sources
